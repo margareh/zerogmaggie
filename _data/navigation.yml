@@ -7,11 +7,11 @@
   side: left
   dropdown:
   - title: "Fishbowl Questions"
-    url: "/projects/fishbowl"
+    url: "/fishbowl"
   - title: "Migraine Tracker"
-    url: "/projects/migraine/"
+    url: "/migraine/"
   - title: "Casefile"
-    url: "/projects/casefile/"
+    url: "/casefile/"
 
 - title: "Writing"
   url: "/writing/"
