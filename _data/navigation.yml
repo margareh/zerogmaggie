@@ -1,0 +1,26 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "Fishbowl Questions"
+    url: "/projects/fishbowl"
+  - title: "Migraine Tracker"
+    url: "/projects/migraine/"
+  - title: "Casefile"
+    url: "/projects/casefile/"
+
+- title: "Writing"
+  url: "/writing/"
+  side: left
+
+- title: "Art"
+  url: "/art/"
+  side: left
+
+- title: "About"
+  url: "/about/"
+  side: right
