@@ -1,0 +1,3 @@
+[submodule "casefile"]
+	path = casefile
+	url = git@github.com:margareh/casefile.git
